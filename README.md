@@ -22,13 +22,13 @@ arXiv PDFs → Text Extraction → Chunking → Embeddings → FAISS → Retriev
 
 ## Dataset
 
-This system was built on a diverse collection of **50+ arXiv papers** across:
+This system was built on a diverse collection of 50+ arXiv papers across:
 
-- Machine Learning & LLMs
-- Robotics & Autonomous Systems
-- Computer Vision & 3D Generation
-- Physics & Mathematics
-- Optimization & Systems
+- Machine Learning and LLMs 
+- Robotics and Autonomous Systems 
+- Computer Vision and 3D Generation 
+- Physics and Mathematics 
+- Optimization and Systems 
 
 Full list: [`assets/papers.txt`](./assets/papers.txt)
 
@@ -51,6 +51,10 @@ Full list: [`assets/papers.txt`](./assets/papers.txt)
 
 ---
 
+Valid Response: [`assets/valid-response.json`](./assets/valid-response.json)
+
+---
+
 ### Unsupported Query (Input)
 ![Ask Bad](./assets/api-ask-bad.png)
 
@@ -61,25 +65,47 @@ Full list: [`assets/papers.txt`](./assets/papers.txt)
 
 ---
 
-## Handling Unsupported Queries
-
-The system avoids hallucinations by detecting when no relevant context exists.
-
-### Example
-
-**Question:**
-How does a decision tree classifier work?
-
-**Answer:**
-I do not know based on the provided context. The given context does not contain information about this topic.
+Unsupported Response: [`assets/unsupported-response.json`](./assets/unsupported-response.json)
 
 ---
 
-## Example Request
+## Tech Stack
 
-```json
-POST /ask
+* Python
+* PyTorch
+* Hugging Face Transformers
+* FAISS
+* FastAPI
+* Sentence Transformers
 
-{
-  "question": "What conditions does Theorem 4 require for an MPG?"
-}
+---
+
+## How to Run
+
+```bash
+# Clone repository
+git clone https://github.com/Deepak-Sathyanarayanan/arxiv-rag.git
+cd arxiv-rag
+
+# Create virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run API
+uvicorn src.api:app --reload
+```
+
+Open: http://127.0.0.1:8000/docs
+
+---
+
+## Key Highlights
+
+* Built a complete RAG pipeline using local LLMs
+* Implemented semantic search using FAISS
+* Enabled GPU-based inference for efficient processing
+* Designed system to avoid hallucinations using retrieval constraints
+* Evaluated on a diverse multi-domain research dataset

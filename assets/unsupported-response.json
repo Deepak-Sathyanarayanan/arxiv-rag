@@ -1,0 +1,36 @@
+{
+  "question": "how does a decision tree classifier work?",
+  "answer": "I do not know based on the provided context. The given text does not contain information about how a decision tree classifier works.",
+  "sources": [
+    {
+      "doc_id": "MIDST Challenge at SaTML 2025_ Membership Inference over Diffusion-models-based Synthetic Tabular data",
+      "chunk_id": 2,
+      "rank": 1,
+      "distance": 1.4908137321472168
+    },
+    {
+      "doc_id": "DyMoE_ Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge",
+      "chunk_id": 4,
+      "rank": 2,
+      "distance": 1.5451322793960571
+    },
+    {
+      "doc_id": "ARIADNE_ A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis",
+      "chunk_id": 5,
+      "rank": 3,
+      "distance": 1.5583200454711914
+    },
+    {
+      "doc_id": "Cubic Discrete Diffusion_ Discrete Visual Generation on High-Dimensional Representation Tokens",
+      "chunk_id": 5,
+      "rank": 4,
+      "distance": 1.5629421472549438
+    },
+    {
+      "doc_id": "Cubic Discrete Diffusion_ Discrete Visual Generation on High-Dimensional Representation Tokens",
+      "chunk_id": 6,
+      "rank": 5,
+      "distance": 1.5754330158233643
+    }
+  ]
+}
