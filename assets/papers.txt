@@ -1,0 +1,50 @@
+A global analysis of Energy-Energy Correlation data
+ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion
+ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis
+Box Maze: A Process-Control Architecture for Reliable LLM Reasoning
+Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer
+Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems
+Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens
+Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders
+DreamPartGen: Semantically Grounded Part-Level 3D Generation
+DriveTok: 3D Driving Scene Tokenization
+Duality of generalized Maxwell theories as an equivalence in derived geometry
+DyMoE: Dynamic Expert Orchestration for Efficient MoE Inference
+EffectErase: Joint Video Object Removal and Insertion
+Evaluating Counterfactual Strategic Reasoning in LLMs
+F2LLM-v2: Multilingual Embeddings
+FASTER: Real-Time Flow VLAs
+Few-shot Acoustic Synthesis with Multimodal Flow Matching
+FinTradeBench: Financial Reasoning Benchmark for LLMs
+GenMFSR: Multi-Frame Image Restoration
+Generation Models Know Space: Implicit 3D Priors
+How Auditory Knowledge in LLM Backbones Shapes Audio Language Models
+Identifying AGNs from X-ray detections
+Improving RCT-Based Treatment Effect Estimation
+Investigation of Differential Diffusion in Hydrogen-Air Flames
+LVOmniBench: Long Audio-Video Understanding
+Luck and magic for Pitman-Stanley polytopes
+MIDST Challenge at SaTML 2025
+Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving
+Matryoshka Gaussian Splatting
+Meanings and Measurements in Vision-Language Navigation
+NavTrust: Trustworthiness for Embodied Navigation
+Nemotron-Cascade 2: Post-Training LLMs
+Not All Features Are Created Equal
+OS-Themis: GUI Reward Framework
+OmniVTA: Visuo-Tactile World Modeling
+Online Learning and Equilibrium Computation with Ranking Feedback
+RPiAE: Representation-Pivoted Autoencoder
+Reduction of Triadic Interactions in Turbulence
+Rethinking Vector Field Learning
+Robustness and Attack-Surface in Phishing Detection
+SAMA: Semantic Anchoring and Motion Alignment
+SOL-ExecBench: GPU Kernel Benchmarking
+Sparse Autoencoders Reveal Interpretable Features
+Spectrally-Guided Diffusion Noise Schedules
+Synthetic Control Misconceptions
+The Euler Stratification
+The Exponentially Weighted Signature
+Tinted Frames: Question Framing in VLMs
+R-equivalence on Cubic Surfaces
+cuGenOpt: GPU Optimization Framework

@@ -1,0 +1,36 @@
+{
+  "question": "How restrictive are the sufficient conditions for constructing a Markov potential game in real autonomous driving settings, where vehicles may have asymmetric objectives, partial observability, and state transitions influenced by other agents’ actions",
+  "answer": "The sufficient conditions for constructing a Markov potential game (MPG) can accommodate general driving objectives for autonomous vehicles (AVs) in AD applications, such as tracking a desired speed, collision avoidance, or maximizing ride comfort [Source: Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving | Chunk 1]. These conditions are particularly useful for modeling strategic interactions among traffic participants in scenarios like highway merging and intersection crossing [Source: Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving | Chunk 1]. However, the document does not provide specific details on how restrictive these conditions are for real autonomous driving settings with asymmetric objectives, partial observability, and state transitions influenced by other agents' actions [Source: Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving | Chunk 0].",
+  "sources": [
+    {
+      "doc_id": "Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving",
+      "chunk_id": 0,
+      "rank": 1,
+      "distance": 0.6050500273704529
+    },
+    {
+      "doc_id": "Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving",
+      "chunk_id": 1,
+      "rank": 2,
+      "distance": 0.673561692237854
+    },
+    {
+      "doc_id": "Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving",
+      "chunk_id": 2,
+      "rank": 3,
+      "distance": 0.936819314956665
+    },
+    {
+      "doc_id": "Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving",
+      "chunk_id": 3,
+      "rank": 4,
+      "distance": 0.9584822654724121
+    },
+    {
+      "doc_id": "Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving",
+      "chunk_id": 4,
+      "rank": 5,
+      "distance": 1.092570424079895
+    }
+  ]
+}
